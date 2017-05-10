@@ -1,7 +1,7 @@
  
 <html>
  <head>
-  <title>Microsoft Azure : Red Hat OpenShift origin</title>
+  <title>Openshift on Microsoft Azure</title>
   <style>
     table, th, td {
       border: 1px solid white;
